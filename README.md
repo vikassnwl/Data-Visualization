@@ -16,7 +16,7 @@ This program generates a random path created using scatter plot with randomly ge
 Starting and ending points of this random walk is shown in green and red colors.
 
 [![random-walk.png](https://i.postimg.cc/8Ch7BKSH/random-walk.png)](https://postimg.cc/7CZPqNbG)
-## die frequency
-This program visualizes the frequencies of a die outcomes after n number of rolls in the form of bar chart.
+## dice frequency
+This program visualizes the frequencies of a dice outcomes after n number of rolls in the form of bar chart.(uses pygal library)
 
-![die_visual](https://github.com/vikassnwl/readme-images/raw/master/die_visual.svg)
+![dice_visual](https://github.com/vikassnwl/readme-images/dice_visual.svg)

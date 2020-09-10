@@ -18,4 +18,4 @@ Starting and ending points of this random walk is shown in green and red colors.
 [![random-walk.png](https://i.postimg.cc/8Ch7BKSH/random-walk.png)](https://postimg.cc/7CZPqNbG)
 ## dice frequency
 This program visualizes the frequencies of a die outcomes after n number of rolls in the form of bar chart.
-<img src="https://vikassnwl.github.io/images/die_visual.svg">
+![die_visual](/pygal/dice frequency/die_visual.svg)

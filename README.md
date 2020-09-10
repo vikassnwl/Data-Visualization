@@ -1,7 +1,7 @@
 # Data-Visualization
 Data visualization examples using Matplotlib and Pygal python libraries.
 ## Programs included:
-- mpl squaes
+- mpl squares
 - scatter squares
 - random walk
 - dice frequency

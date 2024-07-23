@@ -19,4 +19,4 @@ Starting and ending points of this random walk is shown in green and red colors.
 ## dice frequency
 This program visualizes the frequencies of a dice outcomes after n number of rolls in the form of bar chart.(uses pygal library)
 
-![dice_visual](https://github.com/vikassnwl/readme-images/raw/master/dice_visual.svg)
+![dice_visual](result_images/dice_visual.svg)
